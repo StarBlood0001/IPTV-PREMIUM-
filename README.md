@@ -487,44 +487,6 @@ https://melon-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd|Referer=
 #EXTINF:-1 group-title="LOKAL Vision+" tvg-logo="https://dl.dropboxusercontent.com/s/95l9wobwt5nv5ob/bandungtv.png", Bandung TV
 https://melon-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd|Referer=https://www.visionplus.id/
 
-
-=====LOKAL======
-
-
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png" group-title="LOKAL", INDOSIAR HD
-https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
-#http://37.49.225.197:8080/F31068/8fd17683/162138
-
-#EXTINF:-1 tvg-id="" tvg-name="SCTV HD" tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26rhbaqpqd/sctv.png" group-title="LOKAL", SCTV HD
-https://raw.githubusercontent.com/Arrasyid22/vision-/main/sctv.m3u8
-#http://37.49.225.197:8080/F31068/8fd17683/162141
-
-#EXTINF:-1 tvg-id="" tvg-name="MOJI HD" tvg-logo="https://dl.dropboxusercontent.com/s/ja4t9tvfvk4oupi/moji.png" group-title="LOKAL", MOJI HD
-https://raw.githubusercontent.com/Arrasyid22/vision-/main/moji.m3u8
-#http://37.49.225.197:8080/F31068/8fd17683/298550
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="LOKAL", Moji (L)
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/128
-
-#EXTINF:-1 tvg-id="" tvg-name="MENTARI TV HD" tvg-logo="https://dl.dropboxusercontent.com/s/l1o4b4ghv8mfhxw/mentaritv.png" group-title="LOKAL", MENTARI TV HD
-#http://37.49.225.197:8080/F31068/8fd17683/298546
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png" group-title="LOKAL",mOJi (indihome)
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="RCTI HD" tvg-logo="https://dl.dropboxusercontent.com/s/62ryx1k6tdaeygm/rcti.png" group-title="LOKAL", RCTI HD
-https://raw.githubusercontent.com/Arrasyid22/vision-/main/rcti.m3u8
-$http://37.49.225.197:8080/F31068/8fd17683/157591
-
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://hometv.pw/logo/lokal/rcti.png" group-title="LOKAL", RCTI FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://103.226.232.196:8000/play/a00a/index.m3u8
-
 =====LOKAL 2=====
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
