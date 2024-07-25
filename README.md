@@ -5082,3 +5082,8 @@ https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 #EXTINF:-1 tvg-id="ETMall60.tw" tvg-logo="https://i.imgur.com/jkOgbLw.png" group-title="Shop",ET Mall 60
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:-1 tvg-id="FTV.tw" status="blocked",FTV (民視) (720p) 
+ http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?ct=18335&tid=m15b424641a89&tsum=ba82cdbfb8253c45a13df5354e6d0dbc 
+
+ #EXTINF:-1 tvg-id="FTV.tw" status="blocked",FTV (民視) (720p) [Not 24/7] 
+ http://seb.sason.top/ptv/ftv.php?id=ms 
